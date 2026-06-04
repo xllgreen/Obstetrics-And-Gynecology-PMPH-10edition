@@ -11,7 +11,7 @@
 > 基于人民卫生出版社《妇产科学》第10版的临床技能手册 — 187 项妇产科临床核心技能
 <br>
 <br>
-<img src="assets/Obstetrics-Gynecology.png" width="260px">
+<img src="assets/Obstetrics-Gynecology.jpg" width="260px">
 <br>
 
 何必苦苦读一本书<br>
@@ -112,7 +112,7 @@ bash scripts/skill-report.sh
 
 ## 关于作者
 
-**妇产科学第10版编委会** — 人民卫生出版社全国高等学校五年制本科临床医学专业第十轮规划教材
+**小绿绿 xllgreen(https://xllgreen.github.io)** — 九江学院临床医学院学生·科技极客
 
 ## 许可证
 
@@ -120,10 +120,10 @@ bash scripts/skill-report.sh
 
 ## Star History
 
-<a href="https://www.star-history.com/#Obstetrics-and-Gynecology-PMPH-10edition&Date">
+<a href="https://www.star-history.com/?repos=Obstetrics-and-Gynecology-PMPH-10edition&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Obstetrics-and-Gynecology-PMPH-10edition&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Obstetrics-and-Gynecology-PMPH-10edition&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Obstetrics-and-Gynecology-PMPH-10edition&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Obstetrics-and-Gynecology-PMPH-10edition&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Obstetrics-and-Gynecology-PMPH-10edition&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Obstetrics-and-Gynecology-PMPH-10edition&type=date&legend=top-left" />
  </picture>
 </a>
