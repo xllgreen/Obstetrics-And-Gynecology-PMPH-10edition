@@ -1,4 +1,4 @@
-# 外科学 Surgery-PMPH-10edition
+# 妇产科学 Obstetrics-and-Gynecology-PMPH-10edition
 <div align="center">
 
 > *「21世纪医学生指南」*
@@ -8,10 +8,10 @@
 [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
 <br>
-> 基于人民卫生出版社《外科学》第10版的临床技能手册 — 240 项外科与急危重症临床技能
+> 基于人民卫生出版社《妇产科学》第10版的临床技能手册 — 240 项外科与急危重症临床技能
 <br>
 <br>
-<img src="https://github.com/xllgreen/Surgery-PMPH-10edition-/blob/main/assets/Surgery.png" width="260px">
+<img src="https://github.com/xllgreen/Obstetrics-And-Gynecology-PMPH-10edition/blob/main/assets/Obstetrics-and-Gynecology.jpg?raw=true" width="260px">
 <br>
 
 何必苦苦读一本书<br>
